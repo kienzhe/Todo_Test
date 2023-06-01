@@ -5,6 +5,7 @@
 
 <script>
 import TodoApp from "./components/TodoApp.vue"
+import hej from "./components/hej.vue"
 
 
 export default {
